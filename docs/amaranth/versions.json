@@ -1,6 +1,6 @@
 [
   {
-    "name": "v*",
-    "root_url": "/docs/amaranth/vv*"
+    "name": "versions.json",
+    "root_url": "/docs/amaranth/vversions.json"
   }
 ]
