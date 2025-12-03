@@ -1,6 +1,10 @@
 [
   {
-    "name": "\\n0.0.1\\n0.0.2",
-    "root_url": "/docs/amaranth/v\\n0.0.1\\n0.0.2/"
+    "name": "0.0.2",
+    "root_url": "/docs/amaranth/v0.0.2/"
+  },
+  {
+    "name": "0.0.1",
+    "root_url": "/docs/amaranth/v0.0.1/"
   }
 ]
